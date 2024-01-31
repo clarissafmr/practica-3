@@ -1,0 +1,24 @@
+.contenedor a{ /*selector combinado*/
+    text-decoration: none; /*elimina el subrayado de las lineas*/
+    color: darkviolet; /*da color a la fuente*/
+    font-size: 20px; /*tamaño de la fuente*/
+    font-weight: bold; /*pone en negritas el texto*/
+}
+h2{
+    color: gold; /*da color a la fuente*/
+}
+p{
+    font-size: 18px; /*tamaño de la fuente*/
+    color: indigo; /*da color a la fuente*/
+}
+h3{
+    color: darkmagenta; /*da color a la fuente*/
+    text-align: center; /* alineación del texto*/
+}
+.contenedor p{
+    color: chocolate; /* color de la fuente*/
+}
+.contenedor2 a{
+    color: darkorchid; /*color de la fuente*/
+    text-decoration: none; /*elimina el subrayado de las lineas*/
+}
